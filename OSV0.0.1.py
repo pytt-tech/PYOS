@@ -3,7 +3,7 @@ from tkinter import Tk, Label
 
 user = "ADMIN"
 window = Tk()
-window.title("Welcome to PYOS"
+window.title("Welcome to PYOS")
 
 def clock():
     while True:
